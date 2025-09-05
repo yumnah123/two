@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages\\\\submit.js -> ../components/UserForm\":{\"id\":\"pages\\\\submit.js -> ../components/UserForm\",\"files\":[\"static/chunks/components_UserForm_js.js\"]}}"
